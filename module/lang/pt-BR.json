@@ -1578,5 +1578,8 @@
   "DND5ECOMBAT.Inspiration.VaillanceDegats": "Inspiração de Combate: somar seu dado de Inspiração de Bardo ({formula}) ao dano deste acerto?",
   "DND5ECOMBAT.Inspiration.VaillanceDefense": "Inspiração de Combate: o ataque acertou ({total} contra CA {ac}). Usar sua Reação para somar seu dado de Inspiração de Bardo ({formula}) à sua CA?",
   "DND5ECOMBAT.Inspiration.VaillanceCarteDegats": "Inspiração de Combate ({bard}): {name} soma {total} ao dano",
-  "DND5ECOMBAT.Inspiration.VaillanceCarteDefense": "Inspiração de Combate ({bard}): {name} soma {total} à própria CA"
+  "DND5ECOMBAT.Inspiration.VaillanceCarteDefense": "Inspiração de Combate ({bard}): {name} soma {total} à própria CA",
+  "DND5ECOMBAT.Menu.LancerMainSecondaire": "Arremessar (mão secundária): {name}",
+  "DND5ECOMBAT.Menu.SEnvoler": "Levantar voo",
+  "DND5ECOMBAT.Menu.Atterrir": "Pousar"
 }
